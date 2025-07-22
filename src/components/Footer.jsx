@@ -44,7 +44,6 @@ const Footer = () => {
           
           <div className="text-center md:text-right">
             <p className="text-sm text-textLight/70">&copy; {currentYear} Wassim Nasr. All rights reserved.</p>
-            <p className="text-xs text-textLight/50 mt-1">Built with React & Tailwind CSS</p>
           </div>
         </div>
         
